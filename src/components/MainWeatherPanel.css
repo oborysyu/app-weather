@@ -1,0 +1,15 @@
+.weather-panel {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  margin: 20px;
+}
+.weather-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.weather-data {
+  display: flex;
+  text-align: initial;
+}

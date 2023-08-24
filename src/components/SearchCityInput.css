@@ -1,0 +1,6 @@
+.addCity {
+  display: flex;
+  place-items: center;
+  gap: 10px;
+  justify-content: center;
+}
